@@ -1,3 +1,3 @@
-# Important
+# Here is some conflict
 
-please do not change anything here
+Need to resolve this conflict
